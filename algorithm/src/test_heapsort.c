@@ -1,5 +1,5 @@
-#include <heapsort.h>
 #include <stdio.h>
+#include "heapsort.h"
 
 void scan_array(int A[], int p, int q)
 {
